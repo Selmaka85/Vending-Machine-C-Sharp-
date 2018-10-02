@@ -1,0 +1,7 @@
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\bin\Debug\MainClassVendingMachine.exe.config
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\bin\Debug\MainClassVendingMachine.exe
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\bin\Debug\MainClassVendingMachine.pdb
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\obj\Debug\MainClassVendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\obj\Debug\MainClassVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\obj\Debug\MainClassVendingMachine.exe
+C:\Users\SELMAKA\Desktop\An 3 London Metropolitan University\Application Development\MyVendingMachine\MainClassVendingMachine\MainClassVendingMachine\obj\Debug\MainClassVendingMachine.pdb
